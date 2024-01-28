@@ -30,29 +30,6 @@ body{
     display: none;
 }
 
-.side-navbar{
-    background-color: #1D232C;
-    width: 50%;
-    height: 100%;
-    position: fixed;
-    top:0;
-    left: 0;
-    padding: 20px;
-    color: white;
-    display: none;
-    transition: 2s ;
-}
-.side-navbar-link
-{
-    margin-bottom: 30px;
-}
-.side-navbar-links a{
-    text-decoration: none;
-    color: white;
-}
-.side-navbar-links a:hover{
-    text-decoration: underline;
-}
 .header{
     display: flex;
     justify-content: center;

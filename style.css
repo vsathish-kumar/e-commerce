@@ -153,6 +153,7 @@ flex-basis: 20%;
  border-radius: 10px;
 }
 @media screen and (max-width:600px)
+{
     .header-image{
         display: none;
     }
@@ -161,4 +162,5 @@ flex-basis: 20%;
     }.service-container-2{
         flex-direction: column;
     }
+}
   
